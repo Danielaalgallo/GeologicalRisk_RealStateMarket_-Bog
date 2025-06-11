@@ -1,0 +1,16 @@
+;nivelAmenaza;Tipo de Amenaza;hectareas;manzanas;porcentaje en manzanas;porcentaje en hectareas
+1;No amenaza;NA;16298.41;24759;56.47;54.9
+2;Amenaza Alta;Movimiento en Masa;3257.92;3191;7.28;10.97
+3;Amenaza Alta;Inundación o desbordamiento de quebradas;1416.75;462;1.05;4.77
+4;Amenaza Alta;Inundación o desbordamiento de quebradas y movimiento en masa;165.25;26;0.06;0.56
+5;Amenaza Baja;Movimiento en Masa;1566.15;2909;6.63;5.28
+6;Amenaza Baja;Inundación o desbordamiento de quebradas;1028;1175;2.68;3.46
+7;Amenaza Baja;Inundación o desbordamiento de quebradas y movimiento en masa;1316.21;122;0.28;4.43
+8;Amenaza Media;Movimiento en Masa;3441.31;10203;23.27;11.59
+9;Amenaza Media;Inundación o desbordamiento de quebradas y movimiento en masa;842.31;901;2.05;2.84
+10;Amenaza Media;Inundación o desbordamiento de quebradas y movimiento en masa;11.37;31;0.07;0.04
+11;Cauce de rio o quebrada;NA;267.64;64;0.15;0.9
+12;zonas de amortiguamiento;NA;74.39;2;0;0.25
+Total;;;29685.71;43845;99.99;99.99
+;;;area en amenaza;19020;43.52;
+;;;;;8.39;
